@@ -5,20 +5,7 @@ export default {
       'Este componente consolida las bases conceptuales, metodológicas y territoriales para aplicar el IPPTA en la caracterización predial. Integra la cartografía agroecológica, el agroecosistema como unidad de análisis y la proyección del territorio mediante mapas del presente y futuro. Promueve la planificación participativa, articulando saberes locales, criterios técnicos y aspiraciones familiares hacia la autonomía predial.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
-    imagenesDecorativasBanner: [
-      {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
-      },
-      {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
-      },
-      {
-        clases: ['banner-principal-decorativo-3'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.png'),
-      },
-    ],
+    imagenesDecorativasBanner: [],
   },
   menuPrincipal: {
     menu: [
