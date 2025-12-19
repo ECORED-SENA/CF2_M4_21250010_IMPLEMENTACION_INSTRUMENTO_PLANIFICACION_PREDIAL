@@ -259,7 +259,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
-                img(src='@/assets/curso/tema2/23.png', alt='')
+                img(src='@/assets/curso/tema2/23b.png', alt='')
             .col-lg
               .p-4
                 p.mb-0(data-aos="fade-up") Pensar la estructura desde criterios agroecológicos permite optimizar funciones, favorecer la biodiversidad, mejorar el reciclaje de nutrientes y facilitar la toma de decisiones informadas. La articulación entre estructura y composición es clave para transitar hacia sistemas más resilientes, sostenibles y autónomos.
@@ -273,14 +273,14 @@
     
         .row.justify-content-center
           .col-lg-10
-            .bg-color-2.mb-5(data-aos="fade-up")
-              .row.justify-content-center.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
-                  figure
-                    img(src='@/assets/curso/tema2/24.png', alt='')
-                .col-lg
+            .mb-5(data-aos="fade-up")
+              .row.justify-content-center.align-items-stretch.g-0
+                .col-lg-auto
+                  figure.mb-0
+                    img(src='@/assets/curso/tema2/24b.png', alt='')
+                .col-lg.bg-color-2
                   .p-4
-                    p.mb-0(data-aos="fade-up") Las propiedades emergentes son características del agroecosistema que no pueden explicarse por la simple suma de sus partes. No provienen directamente de los cultivos, animales o herramientas aisladas, sino que surgen de las relaciones, interacciones y dinámicas entre todos los componentes cuando el sistema funciona como un todo integrado.
+                    p.mb-0.mt-4(data-aos="fade-up") Las propiedades emergentes son características del agroecosistema que no pueden explicarse por la simple suma de sus partes. No provienen directamente de los cultivos, animales o herramientas aisladas, sino que surgen de las relaciones, interacciones y dinámicas entre todos los componentes cuando el sistema funciona como un todo integrado.
     
     p.mb-5 Estas propiedades reflejan el grado de integración ecológica, cultural y organizativa del predio, y son indicadores clave de su sostenibilidad, resiliencia y capacidad de transformación. No se imponen desde afuera: se cultivan con el tiempo a través del manejo cotidiano (Barchuk, 2020). Las propiedades emergentes en agroecosistemas son: 
 
