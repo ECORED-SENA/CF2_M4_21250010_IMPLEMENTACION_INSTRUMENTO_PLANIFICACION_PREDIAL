@@ -21,7 +21,7 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.1 Definición y propósitos de la cartografía predial
     
-    p.mb-5 La cartografía predial agroecológica se entiende como un conjunto de representaciones gráficas, simbólicas y técnicas que permiten visualizar la estructura, dinámica y proyección de un sistema predial desde una perspectiva agroecológica. No se limita a ubicar elementos físicos del terreno, sino que integra prácticas productivas, relaciones ecológicas, flujos de energía, saberes locales y aspiraciones familiares. Los propósitos fundamentales de la cartografía predial agroecológica
+    p.mb-5 La cartografía predial agroecológica se entiende como un conjunto de representaciones gráficas, simbólicas y técnicas que permiten visualizar la estructura, dinámica y proyección de un sistema predial desde una perspectiva agroecológica. No se limita a ubicar elementos físicos del terreno, sino que integra prácticas productivas, relaciones ecológicas, flujos de energía, saberes locales y aspiraciones familiares. Los propósitos fundamentales de la cartografía predial agroecológica.
 
     .bg-full-width.bg-fondo-1
       .px-4.px-md-5.pb-md-3
