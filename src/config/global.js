@@ -286,7 +286,6 @@ export default {
     {
       referencia:
         'FAO. (2024). <em>Guía de transición a la agroecología para extensionistas y promotores rurales en Colombia</em>. Agroecology Knowledge Hub.',
-      link: 'https://www.fao.org/agroecology/database/detail/en/c/1711004/',
     },
     {
       referencia:
